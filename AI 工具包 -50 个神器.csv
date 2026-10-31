@@ -1,4 +1,4 @@
-分类，工具名称，描述，价格，官网链接
+分类,工具名称,描述,价格,官网链接
 写作,Cursor,AI 代码编辑器,免费+/月,https://cursor.com
 写作,通义千问,全能型 AI 助手,免费,https://tongyi.aliyun.com
 写作,Notion AI,笔记 + 写作助手,/月,https://notion.so
@@ -22,6 +22,7 @@
 编程,Tabnine,代码补全工具,免费 + 付费,https://tabnine.com
 编程,Blackbox AI,代码搜索 + 生成,免费,https://blackbox.ai
 编程,Warp,AI 终端,免费 + 付费,https://warp.dev
+编程,agent-qa,自然语言 Web/移动端测试，具备 memidex 持久记忆与经过验证的自我改进,本地包免费，模型及外部服务费用另计,https://vostride.com
 办公,Microsoft 365 Copilot,Office AI 助手,/月,https://microsoft.com
 办公,飞书智能伙伴,企业协作 AI,含飞书订阅,https://feishu.cn
 办公,钉钉 AI,企业办公 AI,免费 + 付费,https://dingtalk.com
